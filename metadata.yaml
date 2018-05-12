@@ -1,5 +1,8 @@
 _repo: Sketches-of-the-East-Africa-Campaign_10362
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Dolbey, Robert Valentine
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '3488'
     url: http://www.gutenberg.org/2009/agents/3488
 description: '"Sketches of General Smuts'' campaign of 1916 in German East Africa."--Introd.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10362#Sketches-of-the-East-Africa-Campaign
 gutenberg_bookshelf: World War I
 gutenberg_issued: '2003-12-01'
 gutenberg_type: Text
